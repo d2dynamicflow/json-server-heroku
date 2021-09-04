@@ -31,71 +31,85 @@
       "id": 1,
       "gameId": 1,
       "name": "Tournament 1",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "5v5",
+      "teamSize": "5",
       "regions": "North America",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 2,
       "gameId": 1,
       "name": "Tournament 2",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "5v5",
+      "teamSize": "5",
       "regions": "North America",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 3,
       "gameId": 2,
       "name": "Tournament 3",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "2v2",
+      "teamSize": "2",
       "regions": "NA + EU",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 4,
       "gameId": 3,
       "name": "Tournament 4",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "1v1",
+      "teamSize": "1",
       "regions": "Europe",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 5,
       "gameId": 1,
       "name": "Tournament 5",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "5v5",
+      "teamSize": "5",
       "regions": "North America",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 6,
       "gameId": 5,
       "name": "Tournament 6",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "1v1",
+      "teamSize": "1",
       "regions": "NA + EU",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     },
     {
       "id": 7,
       "gameId": 1,
       "name": "Tournament 7",
-      "startDate": "2014-09-08T08:02:17-05:00",
+      "startDate": "2021-09-08T08:02:17-05:00",
       "entryPlayer": "Free Entry",
-      "teamSize": "5v5",
+      "teamSize": "5",
       "regions": "North America",
-      "skillLevel": "All"
+      "skillLevel": "All",
+      "maxTeams": 50,
+      "enrolled": 0
     }
   ]
 }
