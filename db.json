@@ -37,7 +37,21 @@
       "regions": "North America",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 2,
@@ -49,7 +63,21 @@
       "regions": "North America",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 3,
@@ -61,7 +89,21 @@
       "regions": "NA + EU",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 4,
@@ -73,7 +115,21 @@
       "regions": "Europe",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 5,
@@ -85,7 +141,21 @@
       "regions": "North America",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 6,
@@ -97,7 +167,21 @@
       "regions": "NA + EU",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "prizes": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     },
     {
       "id": 7,
@@ -109,7 +193,21 @@
       "regions": "North America",
       "skillLevel": "All",
       "maxTeams": 50,
-      "enrolled": 0
+      "enrolled": 0,
+      "pricing": [
+        {
+          "id": 1,
+          "price": 70
+        },
+        {
+          "id": 2,
+          "price": 20
+        },
+        {
+          "id": 3,
+          "price": 10
+        }
+      ]
     }
   ],
   "users": [
