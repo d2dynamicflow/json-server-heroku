@@ -41,15 +41,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -67,15 +67,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -93,15 +93,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -119,15 +119,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -145,15 +145,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -171,15 +171,15 @@
       "prizes": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     },
@@ -197,15 +197,15 @@
       "pricing": [
         {
           "id": 1,
-          "price": 70
+          "prize": 70
         },
         {
           "id": 2,
-          "price": 20
+          "prize": 20
         },
         {
           "id": 3,
-          "price": 10
+          "prize": 10
         }
       ]
     }
