@@ -214,12 +214,14 @@
     {
       "id": 1,
       "username": "admin",
-      "password": "12345"
+      "password": "12345",
+      "image": "https://i.imgur.com/hD29TYb.jpg"
     },
     {
       "id": 2,
       "username": "ridwan",
-      "password": "12345"
+      "password": "12345",
+      "image": "https://i.imgur.com/NCl4yzm.jpg"
     }
   ]
 }
