@@ -215,13 +215,16 @@
       "id": 1,
       "username": "admin",
       "password": "12345",
-      "image": "https://i.imgur.com/hD29TYb.jpg"
+      "image": "https://i.imgur.com/hD29TYb.jpg",
+      "rank": 1
+      
     },
     {
       "id": 2,
       "username": "ridwan",
       "password": "12345",
-      "image": "https://i.imgur.com/NCl4yzm.jpg"
+      "image": "https://i.imgur.com/NCl4yzm.jpg",
+      "rank": 2
     }
   ]
 }
