@@ -216,7 +216,8 @@
       "username": "admin",
       "password": "12345",
       "image": "https://i.imgur.com/hD29TYb.jpg",
-      "rank": 1
+      "rank": 1,
+      "XP": 334185
       
     },
     {
@@ -224,7 +225,8 @@
       "username": "ridwan",
       "password": "12345",
       "image": "https://i.imgur.com/NCl4yzm.jpg",
-      "rank": 2
+      "rank": 2,
+      "XP": 243765
     }
   ]
 }
