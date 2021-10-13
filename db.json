@@ -217,7 +217,7 @@
       "password": "12345",
       "image": "https://i.imgur.com/hD29TYb.jpg",
       "rank": 1,
-      "XP": 334185
+      "xp": 334185
       
     },
     {
@@ -226,7 +226,7 @@
       "password": "12345",
       "image": "https://i.imgur.com/NCl4yzm.jpg",
       "rank": 2,
-      "XP": 243765
+      "xp": 243765
     }
   ]
 }
