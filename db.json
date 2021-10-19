@@ -54,6 +54,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -80,6 +81,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -106,6 +108,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -132,6 +135,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -158,6 +162,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -184,6 +189,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "prizes": [
         {
           "id": 1,
@@ -210,6 +216,7 @@
       "skillLevel": "All",
       "maxTeams": 50,
       "enrolled": 0,
+      "platform": ["PC"],
       "pricing": [
         {
           "id": 1,
