@@ -3,26 +3,42 @@
     {
       "id": 1,
       "name": "Call of Duty: Modern Warfare",
+      "platform": [
+        "PC",
+        "PS4"
+      ],
       "imgUrl": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/kronos/common/social-share/social-share-image.jpg"
     },
     {
       "id": 2,
       "name": "Rocket League",
+      "platform": [
+        "PS4"
+      ],
       "imgUrl": "https://archive.esportsobserver.com/wp-content/uploads/2021/04/RL.jpg"
     },
     {
       "id": 3,
       "name": "League of Legends",
+      "platform": [
+        "PC"
+      ],
       "imgUrl": "https://cdn1.dotesports.com/wp-content/uploads/2019/09/12195522/league-of-legends.jpg"
     },
     {
       "id": 4,
       "name": "Counter-Strike: Global Offensive",
+      "platform": [
+        "PC"
+      ],
       "imgUrl": "https://www.teahub.io/photos/full/212-2120981_counter-strike-global-offensive.jpg"
     },
     {
       "id": 5,
       "name": "Fortnite",
+      "platform": [
+        "PC"
+      ],
       "imgUrl": "https://cdn2.unrealengine.com/17br-s17-launcher-egs-fc-1920x1080-1920x1080-9f32f6158d1f.jpg"
     }
   ],
